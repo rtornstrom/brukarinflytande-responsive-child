@@ -1,4 +1,4 @@
-t-sandcit-responsive-child
-==========================
+brukarinflytande-responsive-child
+=================================
 
-T-Sandcit (Responsive Child Theme)
+Brukarinflytande (Responsive Child Theme)
